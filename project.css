@@ -1,0 +1,26 @@
+.header{
+    background-color: rgb(19, 1, 97);
+}
+h1 {
+    color:darkorange
+}
+h2 {
+    color:forestgreen
+} 
+
+.in {
+    background-color:greenyellow;
+    border:solid
+    red
+}
+.grid {
+    background-color:teal;
+    border: 2px solid black;
+    border-radius:50px;
+}
+.menu{
+    margin: 80px;
+}
+.menu a{
+    margin-left: 20px;
+}
